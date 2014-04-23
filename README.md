@@ -14,9 +14,7 @@ Step2: Compile the yacc file
 
 Step3: g++ y.tab.c lex.yy.c -lfl
 
-Step4 : ./a.out input
-	eg : ./a.out input1.xml
-	     ./a.out input2.xml
+Step4 : ./a.out input.xml
 	     
 Step5: Output: Errors.
 	     
